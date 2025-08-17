@@ -208,6 +208,7 @@ __marimo__/
 
 
 #terraform
+.terraform/
 *.tfvars
 *.tfstate
 *.pem
